@@ -7,6 +7,11 @@
   - LinkedIn: [Rushi Chudasama](https://www.linkedin.com/in/rushi-chudasama-63473819a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can switch from writing complex Git commands to performing a smooth salsa move in no time!
+## ☕ Support My Work
+
+If you find my projects helpful, you can support me here:
+[https://buymeacoffee.com/rushi45] [https://buymeachai.ezee.li/rushi45]
+
 
 <!---
 YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
